@@ -8,10 +8,13 @@
 <img src="./public/images/punto-1.jpeg" alt="punto 1">
 
 <h2>Punto 2: Sumas de Constantes y Variables</h2>
-<img src="./public/images/punto-2.jpeg" alt="punto 1">
+<img src="./public/images/punto-2.jpeg" alt="punto 2">
+
 <h2>Punto 3: Suma de dos números indicados por el usuario</h2>
+<img src="./public/images/punto-3.jpeg" alt="punto 3">
 
 <h2>Punto 4: Datos del usuario en consola</h2>
+<img src="./public/images/punto-4.jpeg" alt="punto 4">
 
 <h2>Punto 5: Entrada de bolera usando if / else</h2>
 
