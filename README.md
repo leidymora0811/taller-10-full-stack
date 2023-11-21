@@ -17,10 +17,13 @@
 <img src="./public/images/punto-4.jpeg" alt="punto 4">
 
 <h2>Punto 5: Entrada de bolera usando if / else</h2>
+<img src="./public/images/punto-5.jpeg" alt="punto 5">
 
 <h2>Punto 6: Detección de mayoria de edad</h2>
+<img src="./public/images/punto-6.jpeg" alt="punto 6">
 
 <h2>Punto 7: Selección de operación aritmetica</h2>
+<img src="./public/images/punto-7.jpeg" alt="punto 7">
 
 <h2>Punto 8: Entrada de bolera usando Switch</h2>
 
