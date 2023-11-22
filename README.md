@@ -26,12 +26,16 @@
 <img src="./public/images/punto-7.jpeg" alt="punto 7">
 
 <h2>Punto 8: Entrada de bolera usando Switch</h2>
+<img src="./public/images/punto-8.jpeg" alt="punto 8">
 
 <h2>Punto 9: Tabla de multiplicar usando While</h2>
+<img src="./public/images/punto-9.jpeg" alt="punto 9">
 
 <h2>Punto 10: Números pares usando While</h2>
+<img src="./public/images/punto-10.jpeg" alt="punto 10">
 
 <h2>Punto 11: Números impares usando for</h2>
+<img src="./public/images/punto-11.jpeg" alt="punto 11">
 
 <h2>Punto 12: Tabla de multiplicar usando for</h2>
 
