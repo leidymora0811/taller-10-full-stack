@@ -38,8 +38,10 @@
 <img src="./public/images/punto-11.jpeg" alt="punto 11">
 
 <h2>Punto 12: Tabla de multiplicar usando for</h2>
+<img src="./public/images/punto-12.jpeg" alt="punto 12">
 
 <h2>Punto 13: Suma de valores de un arreglo usando foreach</h2>
+<img src="./public/images/punto-13.jpeg" alt="punto 13">
 
 <h2>Punto 14: Revisión de contraseña</h2>
 
